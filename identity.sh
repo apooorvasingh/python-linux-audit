@@ -2,7 +2,7 @@ nano identity.sh
 #!/bin/bash
 # ==============================================================
 # Script Name : identity.sh
-# Author      : [Your Name]
+# Author      : Apoorva Singh
 # Unit Mapping: Unit 2 - Linux System Identity
 # Purpose     : Collects system metadata for the Python Audit.
 # ==============================================================
